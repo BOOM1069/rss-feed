@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Boom 106.9 FM Live Stream</title>
-    <link>https://streaming.shoutcast.com/boom106-9</link>
+    <link>https://streaming.shoutcast.com/boom106-9/</link>
     <description>The trending station! Listen live to Boom 106.9 FM.</description>
     <language>en-us</language>
     <atom:link href="https://boom1069.github.io/rss-feed/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Listen Live</title>
-      <link>https://streaming.shoutcast.com/boom106-9</link>
+      <link>https://streaming.shoutcast.com/boom106-9/</link>
       <description>Click to listen to Boom 106.9 FM live!</description>
-      <enclosure url="https://streaming.shoutcast.com/boom106-9" type="audio/mpeg" length="12345678" />
+      <enclosure url="https://streaming.shoutcast.com/boom106-9/" type="audio/mpeg" length="12345678" />
       <guid>https://streaming.shoutcast.com/boom106-9/guid</guid>
     </item>
   </channel>
